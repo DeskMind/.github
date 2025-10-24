@@ -27,6 +27,21 @@ DeskMind is built around three main components:
 
 ---
 
+## 🧩 Architecture Foundation
+
+DeskMind builds on top of the [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel),
+leveraging its flexible AI orchestration model for planning, memory, and skill execution.
+The current SDK wraps Semantic Kernel’s abstractions into a modular plugin architecture
+optimized for desktop applications.
+
+In future releases, the framework will also include support for
+[LangChain for .NET](https://github.com/tryAGI/LangChain) and similar agent frameworks,
+depending on their ecosystem maturity and stability on .NET.
+This layered approach ensures DeskMind can evolve alongside the broader
+agentic AI ecosystem while remaining locally executable and framework-agnostic.
+
+---
+
 ## 🚀 Getting Started
 
 1. **Install DeskMind Studio**  
