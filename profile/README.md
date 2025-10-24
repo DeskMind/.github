@@ -46,10 +46,10 @@ DeskMind is built around three main components:
 4. Drop Your Plugin DLL into the Studio Plugins folder and it will appear automatically.
 
 ## 🧰 Repository Structure
-DeskMind.SDK/                → Core SDK & interfaces
-DeskMind.Studio/             → WPF host application (free)
-DeskMind.Plugins.Free/       → Open-source plugins (Office, WebScraper, PythonRunner,  etc.)
-DeskMind.Plugins.Pro/        → Commercial plugins (future)
+DeskMind.SDK/                → Core SDK & interfaces  
+DeskMind.Studio/             → WPF host application (free)  
+DeskMind.Plugins.Free/       → Open-source plugins (Office, WebScraper, PythonRunner,  etc.)  
+DeskMind.Plugins.Pro/        → Commercial plugins (future)  
 
 ## 📦 Build Requirements
 
