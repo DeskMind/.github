@@ -12,9 +12,9 @@ DeskMind is built around three main components:
 | Component | Description | License |
 |------------|--------------|----------|
 | **[DeskMind.SDK](https://github.com/DeskMind/DeskMind.SDK)** | Core contracts and plugin runtime used to build DeskMind-compatible extensions. | Apache 2.0 |
-| **[DeskMind.Studio](https://github.com/DeskMind/DeskMind.Studio)** | Free WPF-based desktop shell that loads and manages DeskMind plugins. | Free (EULA) |
+| **[DeskMind.Studio](https://github.com/DeskMind/DeskMind.Studio)** | Free WPF-based desktop shell that loads and manages DeskMind plugins. | Apache 2.0 |
 | **[DeskMind.Plugins.Free](https://github.com/DeskMind/DeskMind.Plugins.Free)** | Collection of open-source DeskMind plugins such as Office and Web Scraper. | Apache 2.0 |
-| **[DeskMind.Plugins.Pro](https://github.com/DeskMind/DeskMind.Plugins.Pro)** | Commercial plugins providing advanced integrations (e.g., Python Runner). | Proprietary |
+| **[DeskMind.Plugins.Pro](https://github.com/DeskMind/DeskMind.Plugins.Pro)** | Commercial plugins providing advanced integrations. | Proprietary |
 
 ---
 
@@ -48,8 +48,8 @@ DeskMind is built around three main components:
 ## 🧰 Repository Structure
 DeskMind.SDK/                → Core SDK & interfaces
 DeskMind.Studio/             → WPF host application (free)
-DeskMind.Plugins.Free/       → Open-source plugins (Office, WebScraper, etc.)
-DeskMind.Plugins.Pro/        → Commercial plugins (PythonRunner, etc.)
+DeskMind.Plugins.Free/       → Open-source plugins (Office, WebScraper, PythonRunner,  etc.)
+DeskMind.Plugins.Pro/        → Commercial plugins (future)
 
 ## 📦 Build Requirements
 
@@ -64,7 +64,7 @@ Windows 10/11 (for Studio, WPF-based)
 | ------------------ | ------------------ | ------------------------------------------ |
 | SDK & Free Plugins | Apache License 2.0 | Permissive, open-source                    |
 | Studio             | Free Binary (EULA) | Free for all users, source-available later |
-| Pro Plugins        | Commercial         | Requires a DeskMind commercial license     |
+| Pro Plugins        | Commercial         | Requires a DeskMind commercial license (Future)    |
 
 ## 💬 Contributing
 
