@@ -1,4 +1,4 @@
-# 🧠 DeskMind — Local AI Agent Framework
+# 🧠 DeskMind — Desktop AI Agent Framework
 
 **DeskMind** is a modular, locally executable AI framework designed to bring **agentic intelligence** directly to your desktop.  
 It enables developers to integrate local and online AI capabilities into existing software like Office, and more — all through an extensible plugin system.
